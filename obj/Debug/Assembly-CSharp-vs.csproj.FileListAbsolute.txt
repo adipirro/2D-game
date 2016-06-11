@@ -1,0 +1,22 @@
+C:\Users\Anthony\Documents\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Anthony\Documents\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Anthony\Documents\New Unity Project 1\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Anthony\Documents\New Unity Project 1\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Anthony\Documents\New Unity Project 1\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Anthony\Documents\New Unity Project 1\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Anthony\Documents\New Unity Project 1\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Anthony\Documents\New Unity Project 1\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Anthony\Documents\New Unity Project 1\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\New Unity Project 1\obj\Debug\Assembly-CSharp.dll
+C:\Users\Anthony\Documents\New Unity Project 1\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Anthony\Desktop\UnityProjects\2D Game\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\UnityProjects\2D Game\obj\Debug\Assembly-CSharp.dll
+C:\Users\Anthony\Desktop\UnityProjects\2D Game\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Anthony\Desktop\UnityProjects\2D Game\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Anthony\Desktop\UnityProjects\2D Game\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Anthony\Desktop\UnityProjects\2D Game\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Anthony\Desktop\UnityProjects\2D Game\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Anthony\Desktop\UnityProjects\2D Game\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Anthony\Desktop\UnityProjects\2D Game\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Anthony\Desktop\UnityProjects\2D Game\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Anthony\Desktop\UnityProjects\2D Game\Temp\bin\Debug\ICSharpCode.NRefactory.dll

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4f5b8ad21befaad478e4421c51dc7630
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - background: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - healthText: {instanceID: 0}
+  - energyBar: {instanceID: 0}
+  - energyText: {instanceID: 0}
+  - activeMarker: {instanceID: 0}
+  - targetMarker: {instanceID: 0}
+  - poisonIcon: {instanceID: 0}
+  - healingIcon: {instanceID: 0}
+  - frozenIcon: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
